@@ -6,12 +6,11 @@
     <title>Project 1</title>
     <link href="style.css" rel="stylesheet" type="text/css" />
 </head>
-  <div class="topnav">
-  <a About = "About Me">
-  <a href="About">Jump to #AboutMe on page.html</a>
-  <a Experience = "MyExperience">
-  <a ref="Experience">Jump to #MyExperience on page.html</a>    
-  <a Hobbies = "MyHobbies">
-  <a href="Hobbies">Jump to #MyHobbies on page.html</a>
+<div class="navbar">
+  <a href="#home">Home</a>
+  <a href="#about">about</a>
+  <a href="#contact">Contact</a>
+</div>
+
 </div>
   <h1> A single Dad's mid life crisis and career change all at once</h1>
